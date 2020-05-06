@@ -1,4 +1,6 @@
 # New Relic for Discourse
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMindSciences%2Fnew_relic-discourse.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMindSciences%2Fnew_relic-discourse?ref=badge_shield)
+
 
 This is a Discourse plugin to get your forums reporting performance data to [New Relic][new-relic]. It is meant to be used with the [Discourse Docker Image][discourse-docker], so installation instructions will follow that route. It was originally written by [Sam Saffron][original], but I've updated the version of the New Relic RPM gem and supplied a newrelic.yml file that will be parsed by ERB.
 
@@ -37,3 +39,6 @@ Or, you can visit the `/admin/upgrade` URL on your Discourse installation's fron
 [discourse-docker]: https://github.com/discourse/discourse/blob/master/docs/INSTALL-digital-ocean.md
 [original]: https://meta.discourse.org/t/newrelic-plugin/12986
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMindSciences%2Fnew_relic-discourse.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMindSciences%2Fnew_relic-discourse?ref=badge_large)
